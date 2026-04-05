@@ -181,7 +181,7 @@ button {
             <h2>Our Categories</h2>
             
             <div class="category-item">
-                !Image](https://github.com/user-attachments/assets/7fafca34-e0da-48f7-8a21-0f05eea54bb8) 
+            https://pin.it/6qK2KRzda
   alt="Mangalsutra">
                 <span>Mangalsutra</span>
             </div>
